@@ -1,4 +1,4 @@
 server:
   port: ${PORT:8885}
 max_efectivo: 1000000
-denominaciones: mil,dosmil,cincomil,diezmiel
+denominaciones: 10,20,30,40,50
