@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8885}
+max_efectivo: 1000000
+denominaciones: mil,dosmil,cincomil,diezmiel
